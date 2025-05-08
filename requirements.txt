@@ -1,0 +1,5 @@
+cloudscraper==1.2.71
+pyfiglet==0.8.post1
+colorama==0.4.6
+requests==2.31.0
+pysocks==1.7.1
